@@ -4,4 +4,4 @@ In this project, I trained the Huskylens device to recognize and classify object
 ## Image Preview
 ![Object Detection](https://github.com/Raghad-ALSalmi/Huskylens/blob/main/H1.jpg)
 
-![Object Detection](https://github.com/Raghad-ALSalmi/Huskylens/blob/main/H1.jpg)
+
